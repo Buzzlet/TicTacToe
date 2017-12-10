@@ -1,0 +1,23 @@
+run
+reload
+run
+exit
+run
+reload
+run
+reload
+run
+reload
+run
+reload
+run
+reload
+run
+reload
+run
+libraryDependencies += "org.scala-lang" % "scala-swing" % "2.10.2"
+run
+exit
+run
+exit
+run

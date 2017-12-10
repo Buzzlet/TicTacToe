@@ -1,0 +1,21 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Joel\Documents\Programming\TicTacToe\src\main\scala\ticTacToe.scala:67:19: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m			gameComplete = checkCompletion[0m
+[0m[[0m[31merror[0m] [0m[0m			               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Joel\Documents\Programming\TicTacToe\src\main\scala\ticTacToe.scala:76:10: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m		println(player.marker == moves(row)(0) &&[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Joel\Documents\Programming\TicTacToe\src\main\scala\ticTacToe.scala:84:10: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m		println(player.marker == moves(0)(column) &&[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Joel\Documents\Programming\TicTacToe\src\main\scala\ticTacToe.scala:91:10: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m		println((player.marker == moves(0)(0) &&[0m
+[0m[[0m[31merror[0m] [0m[0m		       ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
